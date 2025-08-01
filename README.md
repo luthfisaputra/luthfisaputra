@@ -6,6 +6,11 @@
 
 ---
 
+### 💼 Tentang Saya
+Saya adalah mahasiswa dan data enthusiast yang sedang fokus membangun portofolio di bidang analisis data. Saya senang mengubah data mentah menjadi insight yang bermakna menggunakan berbagai tools analitik dan visualisasi.
+
+---
+
 ### 🧰 Tools & Skills
 - 📊 Excel, Google Sheets
 - 📌 SQL (MySQL, PostgreSQL)
@@ -25,7 +30,7 @@
 ---
 
 ### 📫 Contact
-- [LinkedIn](www.linkedin.com/in/muhammad-luthfi-saputra-058a44316)
-- [Email](luthfsptr@gmail.com)
+- 🔗 [LinkedIn](www.linkedin.com/in/muhammad-luthfi-saputra-058a44316)
+- 📬 [Email](luthfsptr@gmail.com)
 
 > “Data beats opinion.” – W. Edwards Deming
