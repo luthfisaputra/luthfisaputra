@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Luthfi 👋</h1>
 
-<!--
-**luthfisaputra/luthfisaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Aspiring <strong>Data Analyst</strong> | Passionate about insights, impact, and growth 📈
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Skills
+- 📊 Excel, Google Sheets
+- 📌 SQL (MySQL, PostgreSQL)
+- 🧹 Data Cleaning & Preprocessing
+- 📈 Power BI, Looker Studio
+- 🐍 Python (pandas, matplotlib)
+- 🗂️ Git & GitHub
+
+---
+
+### 📁 Portfolio Projects
+
+| Project | Tools | Summary |
+|--------|-------|---------|
+
+
+---
+
+### 📫 Contact
+- [LinkedIn](www.linkedin.com/in/muhammad-luthfi-saputra-058a44316)
+- [Email](luthfsptr@gmail.com)
+
+> “Data beats opinion.” – W. Edwards Deming
