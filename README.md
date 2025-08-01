@@ -20,7 +20,7 @@
 
 | Project | Tools | Summary |
 |--------|-------|---------|
-
+| [Sneaker & Streetwear Sales Analysis](https://github.com/luthfisaputra/Sneaker-Streetwear-Sales-Analysis-) | Google Sheet, Looker Studio | Sneaker & Streetwear Sales Analysis |
 
 ---
 
