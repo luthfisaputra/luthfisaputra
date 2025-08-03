@@ -12,12 +12,12 @@ Saya adalah mahasiswa dan data enthusiast yang sedang fokus membangun portofolio
 ---
 
 ### 🧰 Tools & Skills
-- • Excel, Google Sheets
-- • SQL (MySQL)
-- • Data Cleaning & Preprocessing
-- • Power BI, Looker Studio
-- • Python (pandas, matplotlib)
-- • GitHub
+-  Excel, Google Sheets
+-  SQL (MySQL)
+-  Data Cleaning & Preprocessing
+-  Power BI, Looker Studio
+-  Python (pandas, matplotlib)
+-  GitHub
 
 ---
 
