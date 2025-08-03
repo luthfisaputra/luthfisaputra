@@ -12,12 +12,12 @@ Saya adalah mahasiswa dan data enthusiast yang sedang fokus membangun portofolio
 ---
 
 ### 🧰 Tools & Skills
-- 📊 Excel, Google Sheets
-- 📌 SQL (MySQL, PostgreSQL)
-- 🧹 Data Cleaning & Preprocessing
-- 📈 Power BI, Looker Studio
-- 🐍 Python (pandas, matplotlib)
-- 🗂️ Git & GitHub
+- • Excel, Google Sheets
+- • SQL (MySQL)
+- • Data Cleaning & Preprocessing
+- • Power BI, Looker Studio
+- • Python (pandas, matplotlib)
+- • GitHub
 
 ---
 
@@ -33,5 +33,6 @@ Saya adalah mahasiswa dan data enthusiast yang sedang fokus membangun portofolio
 ### 📫 Contact
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammadluthfisaputra1926h)
 - 📬 [Email](luthfsptr@gmail.com)
+
 
 > “Data beats opinion.” – W. Edwards Deming
