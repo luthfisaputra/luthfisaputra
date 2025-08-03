@@ -26,6 +26,7 @@ Saya adalah mahasiswa dan data enthusiast yang sedang fokus membangun portofolio
 | Project | Tools | Summary |
 |--------|-------|---------|
 | [Sneaker & Streetwear Sales Analysis](https://github.com/luthfisaputra/Sneaker-Streetwear-Sales-Analysis-) | Google Sheet, Looker Studio | Sneaker & Streetwear Sales Analysis |
+| [Analysis of Determining Factors of Airline Ticket Prices](https://github.com/luthfisaputra/Analysis-of-Determining-Factors-of-Airlane-Ticket-Prices) | Microsoft Power BI | Analyzing airline ticket price data |
 
 ---
 
