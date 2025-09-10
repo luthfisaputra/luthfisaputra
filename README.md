@@ -25,9 +25,7 @@ Saya adalah mahasiswa dan data enthusiast yang sedang fokus membangun portofolio
 
 | Project | Tools |
 |--------|-------| 
-| [Sneaker & Streetwear Sales Analysis](https://github.com/luthfisaputra/Sneaker-Streetwear-Sales-Analysis-) | Google Sheet, Looker Studio | 
-| [Credit Card Spending in India – Interactive Dashboard & Analysis](https://github.com/luthfisaputra/Credit-Card-Spending-in-India-Interactive-Dashboard-Analysis) | Google Sheet, Looker Studio | 
-| [Fraud Rate per Age Category Payment Method](https://github.com/luthfisaputra/Fraud-Rate-per-Age-Category-Payment-Method) | Google Sheet, Looker Studio | 
+| [Sneaker & Streetwear Sales Analysis](https://github.com/luthfisaputra/Sneaker-Streetwear-Sales-Analysis-) | Google Sheet, Looker Studio |  
 | [Customer Feedback & Satisfaction Analysis](https://github.com/luthfisaputra/Customer-Feedback-Satisfaction-Analysis) | Python (Pandas, Matplotlib, Seaborn), Google Sheet, Looker Studio|
 
 ---
