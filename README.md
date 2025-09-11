@@ -27,6 +27,7 @@ Saya adalah mahasiswa dan data enthusiast yang sedang fokus membangun portofolio
 |--------|-------| 
 | [Sneaker & Streetwear Sales Analysis](https://github.com/luthfisaputra/Sneaker-Streetwear-Sales-Analysis-) | Google Sheet, Looker Studio |  
 | [Customer Feedback & Satisfaction Analysis](https://github.com/luthfisaputra/Customer-Feedback-Satisfaction-Analysis) | Python (Pandas, Matplotlib, Seaborn), Google Sheet, Looker Studio|
+| [Credit Risk Analysis](https://github.com/luthfisaputra/Credit_Risk_Analysis) | Python(Pandas, Matplotlib, Seaborn) |
 
 ---
 
