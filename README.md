@@ -34,7 +34,7 @@ Saya adalah mahasiswa dan data enthusiast yang sedang fokus membangun portofolio
 
 ### 📫 Contact
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammadluthfisaputra1926h)
-- 📬 [Email](luthfsptr@gmail.com)
+- 📬 luthfsptr@gmail.com
 
 
 > “Data beats opinion.” – W. Edwards Deming
