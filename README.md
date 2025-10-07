@@ -75,7 +75,7 @@ I love building reliable APIs and crafting efficient backend systems with **Java
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Luthfi Saputra/"><img src="https://img.shields.io/badge/LinkedIn-Luthfi-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/luthfiUSERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Luthfi-blue?logo=linkedin&style=for-the-badge"></a>
   <a href="mailto:luthfi@example.com"><img src="https://img.shields.io/badge/Email-luthfi%40example.com-red?logo=gmail&style=for-the-badge"></a>
   <a href="https://github.com/luthfiUSERNAME"><img src="https://img.shields.io/badge/GitHub-luthfiUSERNAME-black?logo=github&style=for-the-badge"></a>
 </p>
