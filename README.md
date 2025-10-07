@@ -37,15 +37,25 @@ I love building reliable APIs and crafting efficient backend systems with **Java
 
 ---
 
-## 🧩 Tech Stack
+## 🧰 Tech Stack & Tools
 
-| Category | Technologies |
-|-----------|--------------|
-| **Languages** | Java, SQL |
-| **Frameworks** | Spring Boot, Hibernate/JPA |
-| **Databases** | MySQL, PostgreSQL |
-| **DevOps / Tools** | Git, Maven, Docker (learning) |
-| **Others** | Postman, IntelliJ IDEA, VS Code |
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-%235596B0.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
+</p>
 
 ---
 
@@ -88,4 +98,5 @@ I love building reliable APIs and crafting efficient backend systems with **Java
 
 ---
 
-⭐ **Thanks for visiting my profile!** Feel free to check out my projects and drop a star if you like something 🌟
+⭐ **Thanks for visiting my profile!**  
+Feel free to check out my projects and drop a ⭐ if you like something 😄
