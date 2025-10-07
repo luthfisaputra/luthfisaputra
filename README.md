@@ -85,7 +85,7 @@ I love building reliable APIs and crafting efficient backend systems with **Java
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="www.linkedin.com/in/muhammadluthfisaputra1926h"><img src="https://img.shields.io/badge/LinkedIn-Luthfi-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/muhammadluthfisaputra1926h?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Luthfi-blue?logo=linkedin&style=for-the-badge"></a>
   <a href="mailto:luthfi@example.com"><img src="https://img.shields.io/badge/Email-luthfi%40example.com-red?logo=gmail&style=for-the-badge"></a>
   <a href="https://github.com/luthfisaputra"><img src="https://img.shields.io/badge/GitHub-luthfisaputra-black?logo=github&style=for-the-badge"></a>
 </p>
