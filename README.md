@@ -66,7 +66,7 @@ I love building reliable APIs and crafting efficient backend systems with **Java
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | 📦 [**Student Management API**](https://github.com/luthfisaputra/student-management/tree/main) | CRUD + Authentication system for managing students | Java, Spring Boot, MySQL |
-| 💰 **Mini Banking System** | Simulates account management & money transfer | Java, Spring Boot, PostgreSQL |
+| 💰 [**Mini Banking System**](https://github.com/luthfisaputra/mini-banking-system) | Simulates account management & money transfer | Java, Spring Boot, PostgreSQL |
 | 📚 **BookHub API** | RESTful API for books & users management | Java, Spring Boot, JPA |
 
 🔗 *Repositories coming soon — stay tuned!*
