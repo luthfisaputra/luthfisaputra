@@ -10,11 +10,6 @@
 
 ---
 
-## 🌐 Languages / Bahasa
-> 🇬🇧 English below | 🇮🇩 Bahasa Indonesia di bawah 👇  
-
----
-
 ## 🇮🇩 Tentang Saya
 Halo! Aku **Luthfi**, mahasiswa Teknik Informatika yang fokus menjadi **Backend Developer profesional**.  
 Aku suka ngulik hal-hal yang berhubungan dengan **Java, Spring Boot, Database, dan API Development**.  
@@ -23,17 +18,6 @@ Aku suka ngulik hal-hal yang berhubungan dengan **Java, Spring Boot, Database, d
 - Membangun proyek backend nyata (CRUD, autentikasi, transaksi)
 - Memperdalam arsitektur backend & clean code
 - Belajar deployment ke cloud (Railway, Render, dan lainnya)
-
----
-
-## 🇬🇧 About Me
-Hi there! I'm **Luthfi**, an Informatics Engineering student focused on becoming a **professional Backend Developer**.  
-I love building reliable APIs and crafting efficient backend systems with **Java + Spring Boot**.
-
-🎯 My current focus:
-- Building real backend projects (CRUD, Authentication, Transactions)
-- Learning about clean architecture & design patterns
-- Exploring cloud deployment (Render, Railway, etc.)
 
 ---
 
