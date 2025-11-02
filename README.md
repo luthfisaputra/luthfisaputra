@@ -27,6 +27,7 @@ Aku suka ngulik hal-hal yang berhubungan dengan **Java, Spring Boot, Database, d
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-%235596B0.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
