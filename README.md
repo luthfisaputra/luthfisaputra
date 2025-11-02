@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 Informatics Engineering Student @ Universitas Islam Riau <br>
-  💻 Backend Developer (Java | Spring Boot) <br>
+  💻 Backend Developer (Java & Php | Spring Boot & Laravel) <br>
   🚀 Passionate about building reliable, scalable, and maintainable systems
 </p>
 
