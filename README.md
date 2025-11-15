@@ -53,7 +53,6 @@ Aku suka ngulik hal-hal yang berhubungan dengan **GO, Java, Database MySQL & Pos
 |----------|--------------|-------------|
 | [**Student Management API**](https://github.com/luthfisaputra/student-management/tree/main) | CRUD + Authentication system for managing students | Java, Spring Boot, MySQL |
 | [**Mini Banking System**](https://github.com/luthfisaputra/mini-banking-system) | Simulates account management & money transfer | Java, Spring Boot, MySQL |
-| **BookHub API** | RESTful API for books & users management | Java, Spring Boot, JPA |
 
 🔗 *Repositories coming soon — stay tuned!*
 
@@ -71,7 +70,7 @@ Aku suka ngulik hal-hal yang berhubungan dengan **GO, Java, Database MySQL & Pos
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadluthfisaputra1926h?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Luthfi-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/muhammadluthfisaputra1926h?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:luthfsptr@gmail.com"><img src="https://img.shields.io/badge/Email-luthfsptr%40gmail.com-red?logo=gmail&style=for-the-badge"></a>
   <a href="https://github.com/luthfisaputra"><img src="https://img.shields.io/badge/GitHub-luthfisaputra-black?logo=github&style=for-the-badge"></a>
 </p>
