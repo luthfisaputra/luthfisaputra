@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 Informatics Engineering Student @ Universitas Islam Riau <br>
-  💻 Backend Developer (Java & Php | Spring Boot & Laravel) <br>
+  💻 Backend Developer (GO, Java) <br>
   🚀 Passionate about building reliable, scalable, and maintainable systems
 </p>
 
@@ -12,7 +12,7 @@
 
 ## 🇮🇩 Tentang Saya
 Halo! Aku **Luthfi**, mahasiswa Teknik Informatika yang fokus menjadi **Backend Developer profesional**.  
-Aku suka ngulik hal-hal yang berhubungan dengan **Java, Spring Boot, Database, dan API Development**.  
+Aku suka ngulik hal-hal yang berhubungan dengan **GO, Java, Database MySQL & PostgreSQL, dan API Development**.  
 
 🎯 Saat ini aku lagi fokus:
 - Membangun proyek backend nyata (CRUD, autentikasi, transaksi)
@@ -27,10 +27,11 @@ Aku suka ngulik hal-hal yang berhubungan dengan **Java, Spring Boot, Database, d
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-%235596B0.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=gin&logoColor=white" />
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -51,7 +52,7 @@ Aku suka ngulik hal-hal yang berhubungan dengan **Java, Spring Boot, Database, d
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [**Student Management API**](https://github.com/luthfisaputra/student-management/tree/main) | CRUD + Authentication system for managing students | Java, Spring Boot, MySQL |
-| [**Mini Banking System**](https://github.com/luthfisaputra/mini-banking-system) | Simulates account management & money transfer | Java, Spring Boot, PostgreSQL |
+| [**Mini Banking System**](https://github.com/luthfisaputra/mini-banking-system) | Simulates account management & money transfer | Java, Spring Boot, MySQL |
 | **BookHub API** | RESTful API for books & users management | Java, Spring Boot, JPA |
 
 🔗 *Repositories coming soon — stay tuned!*
