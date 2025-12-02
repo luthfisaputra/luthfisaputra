@@ -10,7 +10,7 @@
 
 ---
 
-## 🇮🇩 Tentang Saya
+## Tentang Saya
 Halo! Aku **Luthfi**, mahasiswa Teknik Informatika yang fokus menjadi **Backend Developer profesional**.  
 Aku suka ngulik hal-hal yang berhubungan dengan **GO, Java, Database MySQL & PostgreSQL, dan API Development**.  
 
