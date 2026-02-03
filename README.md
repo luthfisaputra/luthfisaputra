@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 Informatics Engineering Student @ Universitas Islam Riau <br>
-  💻 Backend Developer (GO, Java) <br>
+  💻 Backend Developer (Java) <br>
   🚀 Passionate about building reliable, scalable, and maintainable systems
 </p>
 
@@ -12,7 +12,7 @@
 
 ## Tentang Saya
 Halo! Aku **Luthfi**, mahasiswa Teknik Informatika yang fokus menjadi **Backend Developer profesional**.  
-Aku suka ngulik hal-hal yang berhubungan dengan **GO, Java, Database MySQL & PostgreSQL, dan API Development**.  
+Aku suka ngulik hal-hal yang berhubungan dengan **Java, Database MySQL & PostgreSQL, dan API Development**.  
 
 🎯 Saat ini aku lagi fokus:
 - Membangun proyek backend nyata (CRUD, autentikasi, transaksi)
