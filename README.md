@@ -11,8 +11,7 @@
 ---
 
 ## Tentang Saya
-Halo! Aku **Luthfi**, mahasiswa Teknik Informatika yang fokus menjadi **Backend Developer profesional**.  
-Aku suka ngulik hal-hal yang berhubungan dengan **Java, Database MySQL & PostgreSQL, dan API Development**.  
+Halo! Aku **Luthfi**, mahasiswa Teknik Informatika yang fokus menjadi **Backend Developer profesional**.
 
 🎯 Saat ini aku lagi fokus:
 - Membangun proyek backend nyata (CRUD, autentikasi, transaksi)
