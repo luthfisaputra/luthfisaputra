@@ -26,7 +26,6 @@ Halo! Aku **Luthfi**, mahasiswa Teknik Informatika yang fokus menjadi **Backend 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-%235596B0.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
