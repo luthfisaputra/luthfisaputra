@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 Informatics Engineering Student @ Universitas Islam Riau <br>
-  💻 Backend Developer (Java) <br>
+  💻 Backend Developer (Java & JavaScript) <br>
   🚀 Passionate about building reliable, scalable, and maintainable systems
 </p>
 
@@ -29,6 +29,7 @@ Halo! Aku **Luthfi**, mahasiswa Teknik Informatika yang fokus menjadi **Backend 
   <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/Hibernate-%235596B0.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=gin&logoColor=white" />
   <!-- Databases -->
