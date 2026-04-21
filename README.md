@@ -1,11 +1,11 @@
 <!-- 🧠 README PROFILE LUTHFI -->
 
-<h1 align="center">👋 Hi, I'm Luthfi!</h1>
+<h1>Muhammad Luthfi Saputra</h1>
 
-<p align="center">
-  🎓 Informatics Engineering Student @ Universitas Islam Riau <br>
-  💻 Backend Developer (Java & JavaScript) <br>
-  🚀 Passionate about building reliable, scalable, and maintainable systems
+<p>
+  Informatics Engineering Student @Universitas Islam Riau <br>
+  Backend Developer (Java & JavaScript) <br>
+  Passionate about building reliable, scalable, and maintainable systems
 </p>
 
 ---
