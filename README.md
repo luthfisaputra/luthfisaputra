@@ -10,17 +10,17 @@
 
 ---
 
-## Tentang Saya
-Halo! Aku **Luthfi**, mahasiswa Teknik Informatika yang fokus menjadi **Backend Developer profesional**.
+## About Me
+Hi! I'm **Luthfi**, an Informatics Engineering student passionate about building scalable and reliable backend systems. My goal is to grow into a professional Backend Developer.
 
-🎯 Saat ini aku lagi fokus:
-- Membangun proyek backend nyata (CRUD, autentikasi, transaksi)
-- Memperdalam arsitektur backend & clean code
-- Belajar deployment ke cloud (Railway, Render, dan lainnya)
+Currently, I’m focused on:
+- Developing real-world backend projects (CRUD, authentication, transactions)
+- Strengthening my understanding of backend architecture and clean code principles
+- Exploring cloud deployment using platforms like Railway and Render
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <!-- Languages -->
@@ -45,7 +45,7 @@ Halo! Aku **Luthfi**, mahasiswa Teknik Informatika yang fokus menjadi **Backend 
 
 ---
 
-## 💼 Portfolio Projects
+## Portfolio Projects
 
 > 🚧 *Currently in progress, but here’s what I’m working on...*  
 
