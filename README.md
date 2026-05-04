@@ -70,10 +70,20 @@ Currently, I’m focused on:
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadluthfisaputra1926h?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:luthfsptr@gmail.com"><img src="https://img.shields.io/badge/Email-luthfsptr%40gmail.com-red?logo=gmail&style=for-the-badge"></a>
-  <a href="https://github.com/luthfisaputra"><img src="https://img.shields.io/badge/GitHub-luthfisaputra-black?logo=github&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/muhammadluthfisaputra1926h" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Luthfi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:luthfsptr@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-luthfsptr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/luthfisaputra" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-luthfisaputra-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+
 
 ---
 
