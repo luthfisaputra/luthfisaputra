@@ -61,8 +61,8 @@ Currently, I’m focused on:
 ## ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luthfiUSERNAME&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfiUSERNAME&layout=compact&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=luthfisaputra&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfisaputra&layout=compact&theme=tokyonight" height="160">
 </p>
 
 ---
