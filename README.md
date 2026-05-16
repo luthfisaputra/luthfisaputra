@@ -3,14 +3,14 @@
 <h1 align="center">Muhammad Luthfi Saputra</h1>
 
 <p align="center">
-  Backend Developer (Java) • Informatics Engineering Student <br>
+  Backend Engineer (Java) • Informatics Engineering Student <br>
   Building reliable, scalable, and maintainable backend systems
 </p>
 
 ---
 
 ## About Me
-Backend-focused developer who enjoys designing systems, not just writing code.
+Backend-focused engineer who enjoys designing systems, not just writing code.
 
 Currently:
 - Building real-world backend projects (CRUD, Auth, Transactions)
