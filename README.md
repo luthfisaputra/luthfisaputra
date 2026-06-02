@@ -3,7 +3,7 @@
 <h1 align="center">Muhammad Luthfi Saputra</h1>
 
 <p align="center">
-  Backend Engineer (Java) • Informatics Engineering Student <br>
+  Aspiring Backend Engineer (Java) • Informatics Engineering Student <br>
   Building reliable, scalable, and maintainable backend systems
 </p>
 
