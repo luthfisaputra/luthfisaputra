@@ -37,7 +37,7 @@ Currently:
 
 | Project | Description |
 |--------|------------|
-| [Student Management API](https://github.com/luthfisaputra/student-management/tree/main) | CRUD + Authentication system (Spring Boot) |
+| [Library Management API](https://github.com/luthfisaputra/library-api) | CRUD + Relation + Validation (Spring Boot) |
 | [Mini Banking System](https://github.com/luthfisaputra/mini-banking-system) | Account management & transaction simulation |
 
 ---
