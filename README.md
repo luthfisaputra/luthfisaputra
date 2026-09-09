@@ -56,12 +56,12 @@ Currently:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadluthfisaputra1926h" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Luthfi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:luthfsptr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-luthfsptr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/luthfisaputra" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-luthfisaputra-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
